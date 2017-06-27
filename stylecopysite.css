@@ -1,0 +1,89 @@
+h1.logo {
+	float: left;
+	font-size: 18px;
+	padding-left: 30px;
+	color: grey;
+	letter-spacing: 3px;
+}
+
+ul {
+	float: right;
+	margin-right: 30px;
+}
+
+li {
+	display: inline-block;
+	font-size: 16px;
+	padding: 5px 15px;
+	color: grey;
+	letter-spacing: 4px;
+}
+
+nav {
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	box-shadow: 3px 3px 3px lightgrey;
+	background-color: white;
+	z-index: 99;
+}
+
+li:hover {
+	background-color: lightgrey;
+}
+
+img.heroimg {
+	width: 100%;
+	height: auto;
+}
+
+p.textnaslici {
+	font-size: 35px;
+	color: grey;
+	margin: -80px 0px 0px 30px;
+	letter-spacing: 5px;
+}
+
+div.zarazmak {
+	width: 100%;
+	height: 100px;
+}
+
+div.dessertimg {
+	display: inline-block;
+	margin-left: 150px;
+	width: 20%;
+	height: auto;
+	opacity: 0.7;
+}
+
+div.aboutcatering {
+	display: inline-block;
+	margin-left: 350px;
+	width: 30%;
+	height: auto;
+}
+
+p.cateringnaslov {
+	font-size: 40px;
+	color: #242424;
+}
+
+p.cateringpodnaslov {
+	font-size: 25px;
+	color: #242424;
+}
+
+p.cateringtext {
+	font-size: 20px;
+	color: #242424;
+}
+
+p.sivitext {
+	font-size: 20px;
+	color: grey;
+}
+
+span {
+	background-color: lightgrey;
+}
